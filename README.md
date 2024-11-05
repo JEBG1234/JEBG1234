@@ -1,10 +1,10 @@
 ## Hi there 👋
 - Hi I am Johnathan Edward Brown Greeson
 
-# I Am A
+## I Am A
 ![CM-Badge-2](https://github.com/user-attachments/assets/630a985b-e6ce-4cbf-a7d8-73eac40f1c48)
 
-# I Enjoy
+### I Enjoy
 - I Enjoy programming my programming experience is as follows
 - Java 10 Years experience.
 - NodeJS 10 Years experience.
