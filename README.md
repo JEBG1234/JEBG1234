@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 - Hi I am Johnathan Edward Brown Greeson
 
 ## I Am A
