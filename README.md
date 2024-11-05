@@ -1,7 +1,7 @@
 # Hi there 👋
 - I am Johnathan Edward Brown Greeson
 
-## I Am A
+## I'm
 ![CM-Badge-2](https://github.com/user-attachments/assets/630a985b-e6ce-4cbf-a7d8-73eac40f1c48)
 
 ### I Enjoy
