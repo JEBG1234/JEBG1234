@@ -1,4 +1,14 @@
 ## Hi there 👋
+- Hi I am Johnathan Edward Brown Greeson
+- I Enjoy programming my programming experience is as follows
+- Java 10 Years experience.
+- NodeJS 10 Years experience.
+- HTML, CSS, and Javascript roughly 1 years experience.
+- React roughly 3 months experience. 
+- Vite/Vue roughly 6 months experience.
+
+- My Biggest Innovation to the technological community is the innovation of a the Johnnykins Sha256 Hashing algorithm using a unique Asymmetric style process to enable the beginning creations of a new communication and encryption protocol which relies off of a ceaser cipher which uses a VRF to allow recreatable sha256 hash based communications... which can allow a senior developer to create a new communication and encryption protocol.
+
 
 <!--
 **JEBG1234/JEBG1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
